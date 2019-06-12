@@ -21,7 +21,6 @@ After you fork this repository you can just:
 Everything else will be handled automatically and you can
 start playing with Bitrise in less than a minute.
 
-
 ## Note
 
 This is a simple repository with a simple Xcode project.
